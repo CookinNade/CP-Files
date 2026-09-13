@@ -1,0 +1,2 @@
+#include<bits/stdc++.h>
+using namespace std;typedef long long ll;int main () {ios_base::sync_with_stdio(false); cin.tie(0);ll t,r,l; cin>>t; string s; while (t--){cin>>l>>r; ll ans[8] = {2,3,5,7,30,42,70,105}; ll chk[7]={6,10,14,15,21,210,35}; ll bog=0; ll mon=0; for(int i=0;i<8;i++) bog=bog+(r/ans[i])-((l-1)/ans[i]); for(int i=0;i<7;i++) mon=mon+(r/chk[i])-((l-1)/chk[i]); cout<<r-l+1-bog+mon<<endl;}return 0;}

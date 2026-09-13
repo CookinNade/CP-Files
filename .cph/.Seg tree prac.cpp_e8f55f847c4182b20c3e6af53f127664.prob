@@ -1,0 +1,1 @@
+{"name":"Local: Seg tree prac","url":"c:\\CP\\Seg tree prac.cpp","tests":[{"id":1781009360272,"input":"5 2\n5 -4 4 3 -5\n4 3\n3 -1\n","output":""},{"id":1781009574649,"input":"4 2\n-2 -1 -5 -4\n1 3\n3 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\Seg tree prac.cpp","group":"local","local":true}

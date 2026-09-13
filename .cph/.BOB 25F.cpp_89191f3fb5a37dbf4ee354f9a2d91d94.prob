@@ -1,0 +1,1 @@
+{"name":"Local: BOB 25F","url":"c:\\CP\\BOB 25F.cpp","tests":[{"id":1781634574140,"input":"3\n5 8 4\n1 2\n3 1\n3 4\n3 4\n2 2 3\n1 1\n1 2\n2 1\n1000 1000 2\n500 500\n600 400","output":"A\nA\nB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\BOB 25F.cpp","group":"local","local":true}

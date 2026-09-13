@@ -1,0 +1,1 @@
+{"name":"Local: TPC 2 2026 A","url":"c:\\CP\\TPC 2 2026 A.cpp","tests":[{"id":1782139166754,"input":"2\n4 3 5 18\n2 3 4 1\n10 5 5\n2 1 20 20\n10 30\n50\n","output":"2\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\TPC 2 2026 A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BOB 25D","url":"c:\\CP\\BOB 25D.cpp","tests":[{"id":1781547936436,"input":"3\n3\n1 6 2\n2 4 3\n4\n7 7 7 7\n5 5 5 5\n5\n4 3 1 1 2\n4 5 6 5 7","output":"21\n53\n49"},{"id":1781551354981,"input":"1\n5\n4 3 1 1 2\n4 5 6 5 7","output":"49"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\BOB 25D.cpp","group":"local","local":true}

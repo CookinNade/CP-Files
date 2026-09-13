@@ -1,0 +1,1 @@
+{"name":"Local: BOB 25G","url":"c:\\CP\\BOB 25G.cpp","tests":[{"id":1781862034822,"input":"3\n7 5 8\n10 10 10\n0 1 5","output":"1\n0\n5"},{"id":1781863421023,"input":"1\n7 5 8","output":"1"},{"id":1781864207037,"input":"1\n10 10 10","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\BOB 25G.cpp","group":"local","local":true}

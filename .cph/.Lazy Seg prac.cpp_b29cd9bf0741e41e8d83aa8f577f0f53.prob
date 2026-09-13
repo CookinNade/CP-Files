@@ -1,0 +1,1 @@
+{"name":"Local: Lazy Seg prac","url":"c:\\CP\\Lazy Seg prac.cpp","tests":[{"id":1789037883997,"input":"5 5\n1 0 3 3\n2 1\n1 2 4 4\n2 3\n2 4\n","output":"3\n4\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\Lazy Seg prac.cpp","group":"local","local":true}
