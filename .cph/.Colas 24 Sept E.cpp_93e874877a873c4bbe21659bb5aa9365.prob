@@ -1,0 +1,1 @@
+{"name":"Local: Colas 24 Sept E","url":"c:\\CP\\Colas 24 Sept E.cpp","tests":[{"id":1790249222842,"input":"4\n12 34 67 90\n2","output":""},{"id":1790249631607,"input":"4\n10 20 30 40\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\Colas 24 Sept E.cpp","group":"local","local":true}

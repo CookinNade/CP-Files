@@ -1,0 +1,1 @@
+{"name":"Local: COLAS 3 Nov ","url":"c:\\CP\\COLAS 3 Nov .cpp","tests":[{"id":1793709230239,"input":"5\n3 4 + 2 *\n","output":"14"},{"id":1793710035280,"input":"5\n7 2 / -3 *\n","output":"-9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CP\\COLAS 3 Nov .cpp","group":"local","local":true}
